@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultipleListViewApp</string>
+    <string name="error_message">No more data available</string>
+</resources>
